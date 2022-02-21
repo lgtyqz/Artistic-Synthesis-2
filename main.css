@@ -1,0 +1,26 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    padding-left: 20vw;
+    padding-right: 20vw;
+}
+
+h2 {
+    color:rgba(0, 0, 0, 0.7);
+}
+
+h3 {
+    color:rgba(0, 0, 0, 0.6);
+}
+
+h4 {
+    color:rgba(0, 0, 0, 0.5);
+}
+
+#art-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+canvas {
+    border: 3px solid rgba(0, 0, 0, 0.07);
+}
